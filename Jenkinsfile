@@ -5,7 +5,7 @@ pipeline {
       node {
 
          label 'master'
-          customWorkspace '/mnt'
+          customWorkspace '/mnt/akshay'
    }
 
  }
